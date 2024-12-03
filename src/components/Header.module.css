@@ -1,0 +1,13 @@
+.headercontainer{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    box-shadow: 0px 4px 6px  rgba(0,0,0,0.1);
+    width:100%;
+    text-align:center;
+   
+    
+
+}
+p{
+    padding-bottom:20px;
+}

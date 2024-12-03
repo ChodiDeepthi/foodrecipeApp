@@ -1,0 +1,51 @@
+.container{
+
+    box-shadow:0px 4px 6px rgba(0,0,0,0.1);
+    width:100%;
+    border-radius: 8px;
+    margin:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    overflow: hidden;
+   
+    
+
+}
+.modrenimage{
+    max-width:100%;
+    height:auto;
+    
+
+}
+
+.modrencontent{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   
+
+}
+.itemname{
+    font-size: 1em;
+    color:#393e46;
+    font-weight: 600;
+
+}
+.buttoncontainer{
+    margin-bottom: 20px;
+    display:flex;
+    justify-content: space-around;
+}
+.button{
+    background-color: #29bb89;
+    border:none;
+    color:white;
+    padding:10px;
+    font-size:14px;
+    font-weight:600;
+    cursor:pointer;
+    border-radius: 5px;
+
+}
+.imagecontainer{
+    display:flex;
+    justify-content: center;
+}
